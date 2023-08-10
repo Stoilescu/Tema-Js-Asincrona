@@ -6,7 +6,6 @@ import HomeComponent from "./home";
 import DestinationComponent from "./destination";
 import CrewComponent from "./crew";
 import TechComponent from "./technology";
-// Styles
 import "../scss/index.scss";
 
 const AppComponent = () => {
